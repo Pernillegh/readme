@@ -1,6 +1,6 @@
 ## Watch how to make Easy chocolate chip cookies
 
-![Kager](/opskrift/kager.jpg)
+![Kager](/kager.jpg)
 
 ### Ingredients
 - **225g (1 cup) caster sugar**
